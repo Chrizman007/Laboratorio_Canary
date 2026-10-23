@@ -1,0 +1,5 @@
+nginx/previous.conf
+.env
+.env.*
+!.env.example
+~$*
